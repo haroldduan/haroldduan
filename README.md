@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 
+
+Here are some quick things about me:
+
+- 🔭 I’m currently working on ERP system developing.
+- 🌱 I’m currently learning Go and TensorFlow...
+- 🧑‍💻 Coding is my drug.
+- 📫 The best way to reach me is to send me an email.
+- ⚡ Fun fact: I used to ride my bike to [Mangshan National Forest Park](https://www.amap.com/place/B000A08856) to watch the sunset.
+
 <!--
 **haroldduan/haroldduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
